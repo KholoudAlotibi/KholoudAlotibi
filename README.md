@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KholoudAlotibi
 - 👀 I’m interested in Website Design
 - 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking to collaborate on ...
 
 
 <!---
